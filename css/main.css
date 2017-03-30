@@ -130,6 +130,7 @@ h2 {
   text-align: center;
   color:white;
   font-family: 'Alegreya Sans', sans-serif;
+  padding-top: 50px;
 }
 
 
@@ -137,7 +138,7 @@ h2 {
 
 
 .middle2 {
-	height: 2000px;
+	height: 700px;
 	width: 40%;
 	background-color: black;
 	margin: auto;
@@ -150,7 +151,7 @@ h2 {
 /*PICTURES*/
 div.img {
     margin: 5px;
-    border: 1px solid   #FFFFFF;
+    
     float: left;
     width: 180px;
     justify-content: center;
@@ -158,6 +159,7 @@ div.img {
     padding: 2px;
     display: block;
     width: 50%;
+    padding-top: 50px;
 
 }
 
@@ -248,3 +250,5 @@ div.desc {
 }
 
 }
+
+
